@@ -2,8 +2,8 @@
 
 require 'rubygems'
 require 'sinatra'
-require 'rack-flash'
-require 'digest/md5'
+#require 'rack-flash'
+#require 'digest/md5'
 require 'vendor/flickr/lib/flickr.rb'
 #require 'models'
 
