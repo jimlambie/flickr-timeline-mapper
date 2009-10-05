@@ -1,2 +1,3 @@
-rflickr --version 1.1.2 --source http://github.com/digitalpardoe/rflickr
+rflickr --version 1.1.2 --source gems.github.com
+
 
