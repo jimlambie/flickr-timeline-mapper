@@ -2,12 +2,7 @@
 
 require 'rubygems'
 require 'sinatra'
-
 require 'flickr'
-#require 'rack-flash'
-#require 'digest/md5'
-
-#require 'models'
 
 APP_CONFIG = {
   :flickr_cache_file => "./flickr.cache",
