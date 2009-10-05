@@ -2,9 +2,11 @@
 
 require 'rubygems'
 require 'sinatra'
+
+require 'flickr'
 #require 'rack-flash'
 #require 'digest/md5'
-require 'vendor/flickr/lib/flickr.rb'
+
 #require 'models'
 
 APP_CONFIG = {
